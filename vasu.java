@@ -30,4 +30,11 @@ else return false;
 }   
 //driver code  
 public static void main(String args[])     
-{     
+}
+for(int i=0; i<=num; i++)
+//function calling
+if(isArmstrong(i))
+//prints the armstrong numbers
+System.out.print(i+ ", ");
+}
+}
